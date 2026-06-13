@@ -1,0 +1,6 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: #06080F; }
+textarea:focus { outline: none; border-color: #FF7020 !important; }
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { background: #1A2336; }
+::-webkit-scrollbar-thumb { background: #FF7020; border-radius: 2px; }
