@@ -8,11 +8,11 @@ This framework is officially registered as an independent research preprint on S
 * **SSRN Product ID:** 7018318
 
 ## 📂 Project Architecture Documentation
-* [Vision & Core Philosophy](vision.md) - The fundamental thesis behind decentralized issue-centric governance.
-* [Project Overview](project.md) - The operational scope of IndiaOS.
-* [System Architecture](architecture.md) - The structural specifications and AI Data Pipeline.
-* [Database Layout & SQL Schema](schema.sql) - The relational structure and Entity-Relationship framework.
-* [Development Roadmap](roadmap.md) - Future scaling milestones.
-
+* [Vision & Core Philosophy](vision_1.md) - The fundamental thesis behind decentralized issue-centric governance.
+* [Project Overview](project_context_2.md) - The operational scope of IndiaOS.
+* [System Architecture](architecture_1.md) - The structural specifications and AI Data Pipeline.
+* [Database Layout & SQL Schema](Database%20Schema.pdf) - The relational structure and Entity-Relationship framework.
+* [Development Roadmap](IndiaOS%20Roadmap.pdf) - Future scaling milestones.
+  
 ## 🚀 Live MVP Link
 The user interface mockup is deployed here: [india-os-deploy.vercel.app](https://india-os-deploy.vercel.app)
